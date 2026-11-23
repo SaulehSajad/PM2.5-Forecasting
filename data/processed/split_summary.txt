@@ -1,0 +1,10 @@
+Training rows: 23472
+Validation rows: 5029
+Test rows: 5031
+Training start: 2013-03-01 02:00:00
+Training end: 2015-12-20 05:00:00
+Validation start: 2015-12-20 07:00:00
+Validation end: 2016-07-28 03:00:00
+Test start: 2016-07-28 05:00:00
+Test end: 2017-02-28 22:00:00
+Persistence test MAE: 11.04
